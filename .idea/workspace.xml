@@ -10,7 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31c46572-d56a-4721-a7f7-1d29e7cf8335" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/Util.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/Util.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/SleepNightAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +40,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="layoutResourceFile" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -140,6 +142,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="722" y="83" key="#com.intellij.ide.util.MemberChooser" timestamp="1599115175369">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="722" y="83" key="#com.intellij.ide.util.MemberChooser/0.0.1360.728@0.0.1360.728" timestamp="1599115175369" />
     <state x="511" y="122" key="AndroidCreateResourceFileDialog" timestamp="1599111099806">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
