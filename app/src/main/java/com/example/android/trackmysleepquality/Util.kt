@@ -53,12 +53,6 @@ fun convertDurationToFormatted(startTimeMilli: Long, endTimeMilli: Long, res: Re
     }
 }
 
-
-
-/**
- * These functions create a formatted string that can be set in a TextView.
- */
-
 /**
  * Returns a string representing the numeric quality rating.
  */
@@ -137,5 +131,12 @@ fun formatNights(nights: List<SleepNight>, resources: Resources): Spanned {
         return Html.fromHtml(sb.toString())
     }
 }
+
+/**
+ * ViewHolder that holds a single [TextView].
+ *
+ * A ViewHolder holds a view for the [RecyclerView] as well as providing additional information
+ * to the RecyclerView such as where on the screen it was last drawn during scrolling.
+ */
 class TextItemViewHolder(val textView: TextView): RecyclerView.ViewHolder(textView)
 
